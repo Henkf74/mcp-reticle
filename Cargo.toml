@@ -4,3 +4,4 @@ version = "0.1.0"
 edition = "2021"
 description = "Reticle intercepts, visualizes, and profiles JSON-RPC traffic between your LLM and MCP servers in real-time, with zero latency overhead. Stop debugging blind. Start seeing everything."
 # drop an unused branch
+# clarify the control flow
