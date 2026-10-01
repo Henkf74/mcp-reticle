@@ -13,3 +13,4 @@ test:
 # clarify the control flow
 # clarify the control flow
 # guard against empty input
+# drop an unused branch
